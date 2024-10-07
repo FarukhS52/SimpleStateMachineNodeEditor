@@ -28,8 +28,8 @@ If you like or are using this project please give it a star. Thanks!
 * Table of transitions
 
 ### Validating 
-* for unique name for Node/Transition
-* for exists Nodes without connects
+* for a unique name for Node/Transition
+* for existing Nodes without connects
 ### Adding nodes and connections
 [![](https://github.com/SimpleStateMachine/SimpleStateMachineNodeEditor/blob/gh-pages/img/adding.gif)](https://github.com/SimpleStateMachine/SimpleStateMachineNodeEditor)
 ### Undo and redo
